@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Takanori Hidaka
+## 👋 Hi, I'm Takanori Hidaka
 
 Hi, I'm Taka. I'm a self-taught frontend-focused web developer based in Vancouver.
 
@@ -6,7 +6,9 @@ I build web applications with React, Next.js, and TypeScript, and I'm continuous
 
 I'm interested in frontend architecture, UI development, and modern web workflows, and I'm continuing to deepen both practical implementation skills and technical understanding.
 
-# 💻 Tech Stack
+<br />
+
+## 💻 Tech Stack
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=efefef"> <img src="https://img.shields.io/badge/JavaScript-434343.svg?logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-444.svg?logo=react">
 <img src="https://img.shields.io/badge/Next.js-4C4D59.svg?logo=nextdotjs&logoColor=efefef">
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=efefef">
@@ -26,6 +28,19 @@ I'm interested in frontend architecture, UI development, and modern web workflow
 <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=434343">
 <img src="https://img.shields.io/badge/Husky-4C4D59.svg">
 
+<br />
+
+## 📌 Projects
+- [Portfolio Website](https://www.takanorihidaka.com/my-personal-site) — Next.js / TypeScript / microCMS
+- [Message Board Application](https://www.takanorihidaka.com/spike-message-board) — Next.js / Express / Docker
+- [WordPress Custom Theme](https://www.takanorihidaka.com/takas-coffee) — WordPress / PHP / Sass
+- [Fictional Service Website](https://www.takanorihidaka.com/dot-note) — React / TypeScript / Tailwind CSS
+
+<br />
+
+## 🌱 Also Exploring
+- Raspberry Pi and home server setups
+- Experimenting with integrating AI tools into note management workflows (in progress)
 
 <!--
 **hidaka88jp/hidaka88jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
